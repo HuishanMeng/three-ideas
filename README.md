@@ -13,11 +13,21 @@ For more information, please see the specific sketch.
 
 
 Idea Two:
-         Program: efficiency and time management program
+         An efficiency and time management program
          
 Research Question: Procrastination is too familiar to most people. People would like to put off what they should do today till tomorrow, and when the deadline approaches, they start to blame themselves for their procrastination. Putting up any epigram? Or let your friends make supervision? None of those work out. One effective way is to remind procrastinator the value of time, making a balance between their “subjective time” and the objective time. Besides, the reason of procrastination can be due to the fear of failure and the complication of tasks. 
 
 Description: design a program to help users overcome procrastination through reminding them the left time, the ongoing tasks. It’s a little like the apps of Tomato Timer but our design will make use of the advantages of processing to emphasize the visual effect and mix more fun into the game. 
 
 Specific display: First users will be requested to set the expected time (in hours) to finish their task and input their tasks. Then the program will change the time into minutes, reveal them via a sunflower clock and then take advantage of a zombie to remind you how much time is left. For instance, you first set an hour to fulfill your task. Every ten minutes pass, the zombie will eat one sunflower, showing that you now have 50 minutes to do your tasks. 
+
+
+Idea Three:
+         Game: control a cartoon figure to jump to different boards
+
+Description: the player uses the keyboard to control the cartoon figure to jump to different floating boards in the game window. If the cartoon figure fails to land on a board, he will fall to the ground, which symbolizes the end of the game. More interestingly, the floating boards could be crispy so that even if the cartoon figure successfully lands on the boards, he could fall as well. 
+
+Research Question: it may be hard to calculate the distance between the floating boards as well as decide the conditions when the boards will be crispy. 
+
+Further Research: as long as we figure out the way to enhance the interaction between players and the game, it could be used to develop educational programs to help players learn new knowledge through the process of playing a game.
 
