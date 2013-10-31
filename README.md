@@ -10,7 +10,7 @@ Research Question: we find it meaningful to write the codes which allow the play
 Educational Implication: Learning languages especially foreign ones is a long and painful process, filled with a lot of practice and repeating recitation. As games can “use technology to represent reality or embody fantasy” (Becta, 2001), inspire learners who lack interest or confidence, and add fun to the tedious process, and largely motivate language learners’ initiatives, we would like to design a language learning mini game, helping children and foreigners to learn a language (considering the designers’ background, the database will cover English and Chinese).
 
 For more information, please see the specific sketch.
-
+===========
 
 Idea Two:
          An efficiency and time management program
@@ -20,7 +20,7 @@ Research Question: Procrastination is too familiar to most people. People would 
 Description: design a program to help users overcome procrastination through reminding them the left time, the ongoing tasks. It’s a little like the apps of Tomato Timer but our design will make use of the advantages of processing to emphasize the visual effect and mix more fun into the game. 
 
 Specific display: First users will be requested to set the expected time (in hours) to finish their task and input their tasks. Then the program will change the time into minutes, reveal them via a sunflower clock and then take advantage of a zombie to remind you how much time is left. For instance, you first set an hour to fulfill your task. Every ten minutes pass, the zombie will eat one sunflower, showing that you now have 50 minutes to do your tasks. 
-
+===========
 
 Idea Three:
          Game: control a cartoon figure to jump to different boards
